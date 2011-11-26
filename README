@@ -1,0 +1,6 @@
+TWITTER NEW FOLLOWER DIRECT MESSAGER
+
+1. Ensure Tweepy is installed (https://github.com/joshthecoder/tweepy/blob/master/INSTALL)
+2. Open TwitterBot.py with a text editor. At the top on line 11 there will be a MESSAGE =  variable. Insert the message you would like to send inside the " " 
+3. Sign on to the Twitter account you want to use with any browser. run the TwitterBot.py script and follow the URL given. This step authenticates this application for use with the account you are signed into.
+4. Leave the script running in the background or shut it down and any new followers will get a direct message sent to them upon startup.
